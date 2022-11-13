@@ -61,7 +61,7 @@ h3{
 
 @media screen and (max-width: 1440px){
     .card .mg{
-        background: url(images/image-header-desktop.jpg);
+        background: url(image-header-desktop.jpg);
         border-radius: 0 5px 5px 0;
         background-size: cover;
     
@@ -101,7 +101,7 @@ h3{
     
     .card .mg{
      
-        content: url(images/image-header-mobile.jpg);
+        content: url(image-header-mobile.jpg);
         border-radius: 5px 5px 0px 0;
         background-size: cover;
         
